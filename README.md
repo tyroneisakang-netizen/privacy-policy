@@ -34,13 +34,9 @@ privacy policy CRYPTOSIGNAL
     <p class="last-updated">Last updated: May 25, 2026</p>
 
     <p><strong>We do not collect any personal information.</strong></p>
-    
     <p>This website does not collect, store, or share any personal data from visitors. We do not use cookies for tracking, analytics, advertising, or any other purpose.</p>
-    
     <p>No information is gathered when you visit this site. There are no forms, no sign-ups, no tracking scripts, and no third-party services that collect data about you.</p>
-    
     <p>If this ever changes in the future, this policy will be updated accordingly.</p>
-    
     <p><strong>Contact:</strong> If you have any questions, you can reach us at <a href="mailto:tyroneisakan@gmail.com">tyroneisakan@gmail.com</a>.</p>
 </body>
 </html>
